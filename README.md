@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Welcome</h1>
-<h4>I'am a modern c++, opengl and fullstack developer. 🌏  Venezuela</h4>
+<h4>I'am a c++ and fullstack developer. 🌏  Venezuela</h4>
 </div>
 
 <div align="center">
